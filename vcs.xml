@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab2.dui88.com/test-group/kejiji.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Xiah99/BookManagerSystem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ideaProject" />

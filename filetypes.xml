@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="设计" type="AUTO_DETECTED" />
+      <mapping pattern="IntroDuctionToAbstractFactoryMode" type="AUTO_DETECTED" />
       <mapping pattern="标记接口" type="AUTO_DETECTED" />
       <mapping pattern="类型参数声明" type="AUTO_DETECTED" />
       <mapping pattern="HashSet" type="AUTO_DETECTED" />

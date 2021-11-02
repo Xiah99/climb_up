@@ -7,6 +7,7 @@
       <mapping pattern="类型参数声明" type="AUTO_DETECTED" />
       <mapping pattern="HashSet" type="AUTO_DETECTED" />
       <mapping pattern="Socket编程" type="AUTO_DETECTED" />
+      <mapping pattern="八种基本数据类型" type="AUTO_DETECTED" />
       <mapping pattern="对象序列化" type="AUTO_DETECTED" />
       <mapping pattern="Iterator" type="AUTO_DETECTED" />
       <mapping pattern="链表" type="AUTO_DETECTED" />

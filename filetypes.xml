@@ -13,6 +13,7 @@
       <mapping pattern="Iterator" type="AUTO_DETECTED" />
       <mapping pattern="链表" type="AUTO_DETECTED" />
       <mapping pattern="集合框架体系" type="AUTO_DETECTED" />
+      <mapping pattern="注解介绍" type="AUTO_DETECTED" />
       <mapping pattern="Introduction to factory mode" type="AUTO_DETECTED" />
       <mapping pattern="HashMap" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />

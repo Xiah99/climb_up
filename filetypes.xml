@@ -6,6 +6,7 @@
       <mapping pattern="标记接口" type="AUTO_DETECTED" />
       <mapping pattern="类型参数声明" type="AUTO_DETECTED" />
       <mapping pattern="HashSet" type="AUTO_DETECTED" />
+      <mapping pattern="并发编程中的一些概念" type="AUTO_DETECTED" />
       <mapping pattern="Socket编程" type="AUTO_DETECTED" />
       <mapping pattern="什么是反射" type="AUTO_DETECTED" />
       <mapping pattern="八种基本数据类型" type="AUTO_DETECTED" />

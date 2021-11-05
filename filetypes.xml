@@ -8,11 +8,11 @@
       <mapping pattern="HashSet" type="AUTO_DETECTED" />
       <mapping pattern="并发编程中的一些概念" type="AUTO_DETECTED" />
       <mapping pattern="Socket编程" type="AUTO_DETECTED" />
+      <mapping pattern="链表" type="AUTO_DETECTED" />
       <mapping pattern="什么是反射" type="AUTO_DETECTED" />
       <mapping pattern="八种基本数据类型" type="AUTO_DETECTED" />
       <mapping pattern="对象序列化" type="AUTO_DETECTED" />
       <mapping pattern="Iterator" type="AUTO_DETECTED" />
-      <mapping pattern="链表" type="AUTO_DETECTED" />
       <mapping pattern="集合框架体系" type="AUTO_DETECTED" />
       <mapping pattern="JAVA内置函数式接口" type="AUTO_DETECTED" />
       <mapping pattern="注解介绍" type="AUTO_DETECTED" />
